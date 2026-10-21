@@ -1,0 +1,28 @@
+{
+  "manifest_version": "1.0",
+  "org": "geopandas",
+  "repo": "pgpkg",
+  "versions": [
+    {
+      "commit": "f9d4c5efe72949cc714b12969b0a48d57c14bb56",
+      "parsed_at": "2026-10-21T02:59:29.698184+00:00",
+      "filetree": "filetree/f9d4c5efe72949cc714b12969b0a48d57c14bb56.nq.gz",
+      "blobs": [
+        "blob/4caeb074040452d8d39721bfe91596ea3dfd27cf.nq.gz",
+        "blob/4ac33a23b91a97ebc3c6911e8fca318b1f9b4c0a.nq.gz",
+        "blob/df173aee237bd9fd9f444be3300679c942a6501f.nq.gz",
+        "blob/7afe06a6cf67a37feb17f7b7f9fe881e8107aef0.nq.gz",
+        "blob/af424e3557ab52ea2601be78e3b432b4f16a82e2.nq.gz",
+        "blob/242758e0c2a71fff6562b7d841213e62299a0927.nq.gz",
+        "blob/94abb234d942141d0d2c19f583c5e41fac7e1883.nq.gz",
+        "blob/69f31db25b956cf0cb4de978c0a24e793d3eb87d.nq.gz",
+        "blob/a4c647016d1482b40fb0d408036779a989abf50b.nq.gz",
+        "blob/06ce07bef543aa78320cd3674d6be8a5ad9e969e.nq.gz",
+        "blob/cdf92b8647a3634e05539c91311485435efbbe72.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz"
+}
