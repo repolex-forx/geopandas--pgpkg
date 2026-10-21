@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/geopandas/pgpkg/commit/f9d4c5efe72949cc714b12969b0a48d57c14bb56",
       "git:hexsha": "f9d4c5efe72949cc714b12969b0a48d57c14bb56",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
